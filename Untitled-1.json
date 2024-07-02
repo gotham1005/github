@@ -1,0 +1,22 @@
+{
+    "orderID":123456,
+    "Adress" : "Honorio Pueyrredon 1302",
+    "Status" : "Ready",
+    "Articles": [
+        {"Name": "Carne",
+        "Price": 5000,
+        "Quantity": 2,
+        "Dangerous": false    
+    },
+        {"Name": "Acid",
+        "Price": 600,
+        "Quantity": 2,
+        "Dangerous": true
+
+
+    }
+    ]
+
+
+
+}
